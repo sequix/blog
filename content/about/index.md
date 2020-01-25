@@ -1,15 +1,8 @@
 ---
 title: "关于我"
-date: 2015-03-10 00:13:27
-description: 《Go 实战笔记》系列作者，《Golang Gin 实战》系列作者，《Android Gradle权威指南》作者，现负责技术管理
+date: 2020-01-25T12:42:04+08:00
+description: 大学打了2年算法比赛，毕业后干了3个月测试，现在云计算方向的开发。
+toc: false
 ---
 
-《Go 实战笔记》系列作者，《Golang Gin 实战》系列作者，《Android Gradle权威指南》作者，现负责技术管理。
-
-[Android Gradle权威指南](http://yuedu.baidu.com/ebook/14a722970740be1e640e9a3e)
-
-公众号，扫码关注
-
-![扫码关注](qrcode_for_weixin.jpg)
-
-
+大学打了2年算法比赛，毕业后干了3个月测试，现在云计算方向的开发。
