@@ -1,9 +1,9 @@
 #baseURL = "https://sequix.cn/"
-baseURL = "http://23.106.155.216/"
-languageCode = "zh-CN"
+baseURL = "http://sequix.cn/"
+#languageCode = ""
 title = "sequix"
 theme = "maupassant"
-googleAnalytics = ""  # UA-XXXXXXXX-X
+#googleAnalytics = ""  # UA-XXXXXXXX-X
 
 ## 保持分类的原始名字（false会做转小写处理）
 preserveTaxonomyNames = true
@@ -24,7 +24,7 @@ summaryLength = 140
   subtitle = "专注于Go语言(golang)、云计算、软件架构、算法等"
   keywords = "golang,go语言,go语言笔记,sequix,博客,软件架构,算法"
   description = "专注于IT互联网，包括但不限于Go语言(golang)、软件架构、算法等"
-  busuanzi = false #启用不算子网页统计
+  busuanzi = false # 启用阅读次数统计
   localSearch = true # 启用本地搜索
   #googleAd = "ca-pub-4031353640611810"  #ca-pub-xxxxxxxxxxxxxx
 
@@ -39,16 +39,16 @@ summaryLength = 140
   toc = true 
 
 ## 友情链接，可以多个
-#[[params.links]]
-#  title = "sequix的博客"
-#  name = "sequix的博客"
-#  url = "https://www.flysnow.org/"
+[[params.links]]
+  title = "sequix's github"
+  name = "sequix's github"
+  url = "https://github.com/sequix"
 
 ## 配置 utteranc 评论,教程参考 https://utteranc.es/
 [params.utteranc]
   enable = true
   repo = "sequix/blog"
-  issueTerm = "pathname"
+  issueTerm = "title"
   theme = "github-light"
 
 ## 开启版权声明，协议名字和链接都可以换

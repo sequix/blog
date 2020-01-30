@@ -5,7 +5,7 @@ categories=["源码分析"]
 date="2020-01-25T12:49:11+08:00"
 +++
 
-如果你是一个追求性能的golanger，那么你相比听说过fasthttp、quicktemplate、fastjson，而这些高性能的库都是出自valyala大神之手，今天就来学习一下v神的多线程缓存库[fastcache](https://github.com/victoriametrics/fastcache)。
+如果你是一个追求性能的golanger，那么你肯定听说过fasthttp、quicktemplate、fastjson，而这些高性能库都是出自valyala大神之手，今天就来学习一下v神的多线程缓存库[fastcache](https://github.com/victoriametrics/fastcache)。
 
 ## 使用
 
