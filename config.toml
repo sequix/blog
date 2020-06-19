@@ -1,9 +1,7 @@
-#baseURL = "https://sequix.cn/"
-baseURL = "http://sequix.cn/"
+baseURL = "https://sequix.cn/"
 #languageCode = ""
 title = "sequix"
 theme = "maupassant"
-#googleAnalytics = ""  # UA-XXXXXXXX-X
 
 ## 保持分类的原始名字（false会做转小写处理）
 preserveTaxonomyNames = true
@@ -21,15 +19,11 @@ summaryLength = 140
 
 [params]
   author = "sequix"
-  subtitle = "专注于Go语言(golang)、云计算、软件架构、算法等"
-  keywords = "golang,go语言,go语言笔记,sequix,博客,软件架构,算法"
-  description = "专注于IT互联网，包括但不限于Go语言(golang)、软件架构、算法等"
+  subtitle = "programmer | otaku | straight"
+  keywords = "golang,sequix"
+  description = "programmer | otaku | straight"
   busuanzi = false # 启用阅读次数统计
   localSearch = true # 启用本地搜索
-  #googleAd = "ca-pub-4031353640611810"  #ca-pub-xxxxxxxxxxxxxx
-
-  # 这里我存放在了主题的static文件夹里，根目录的似乎也可以
-  #customCSS = ['douban.css', 'other.css']
 
   # if ['custom.css'], load '/static/css/custom.css' file
   # if ['custom.js'], load '/static/js/custom.js' file

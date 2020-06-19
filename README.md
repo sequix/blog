@@ -1,1 +1,1 @@
-A blog to record my tech learning.
+A blog.
